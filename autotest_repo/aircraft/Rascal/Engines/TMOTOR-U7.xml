@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!-- T-MOTOR U7 -->
+
+<electric_engine name="electric_1mw">
+  <power unit="WATTS">  400 </power> <!--500W at the battery*80% powertrain efficiency, we can only put 400W max to the prop -->
+</electric_engine>
